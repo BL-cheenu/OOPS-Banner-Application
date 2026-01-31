@@ -13,8 +13,6 @@
 
 // Key Requirements:
 
-// Hint:
-
 public class OOPSBannerApp {
 
     // Method to generate the pattern for the letter 'O'
